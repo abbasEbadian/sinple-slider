@@ -1,0 +1,43 @@
+
+@fafont-face {
+  fafont-family: 'Yekan';
+  src: url('fafont/Yekan.eot?#') format('eot'),  
+       url('fafont/Yekan.woff') format('woff'),
+       url('fafont/Yekan.ttf') format('truetype');  
+}
+@fafont-face {
+  fafont-family: 'Titr';
+  src: url('fafont/Titr.eot?#') format('eot'),  
+       url('fafont/Titr.woff') format('woff'),
+       url('fafont/Titr.ttf') format('truetype');  
+}
+@fafont-face {
+  fafont-family: 'Mitra';
+  src: url('fafont/Mitra.eot?#') format('eot'),  
+       url('fafont/Mitra.woff') format('woff'),
+       url('fafont/Mitra.ttf') format('truetype');  
+}
+@fafont-face {
+  fafont-family: 'Liner';
+  src: url('fafont/Liner.eot?#') format('eot'),  
+       url('fafont/Liner.woff') format('woff'),
+       url('fafont/Liner.ttf') format('truetype');  
+}
+@fafont-face {
+  fafont-family: 'Nasim';
+  src: url('fafont/Nasim.eot?#') format('eot'),  
+       url('fafont/Nasim.woff') format('woff'),
+       url('fafont/Nasim.ttf') format('truetype');  
+}
+@fafont-face {
+  fafont-family: 'Nazanin';
+  src: url('fafont/Nazanin.eot?#') format('eot'),  
+       url('fafont/Nazanin.woff') format('woff'),
+       url('fafont/Nazanin.ttf') format('truetype');  
+}
+@fafont-face {
+  fafont-family: 'Koodak';
+  src: url('fafont/Koodak.eot?#') format('eot'),  
+       url('fafont/Koodak.woff') format('woff'),
+       url('fafont/Koodak.ttf') format('truetype');  
+}
